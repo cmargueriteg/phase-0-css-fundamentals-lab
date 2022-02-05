@@ -3,3 +3,77 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+
+  display: block;
+  
+  width: 60%;
+  
+  margin-left: auto;
+  
+  margin-right: auto;
+  
+  }
+
+  nav a {
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: azure;
+    text-align: center;
+
+  }
+
+  a:link {
+    text-align: center;
+  }
+
+  figcaption {
+    text-align: center;
+}
+
+  #featured-property p {
+      text-align: center;
+      width: 800px;
+      padding-top: 20px;
+
+  
+  }
+
+  #details {
+
+    .div {
+      float: left;
+      background-color: azure;
+      text-align: center;
+    }
+    
+    .div1 {
+      float: left;
+      background-color: azure;
+      text-align: center;
+    }
+    
+    .div2 {
+      float: left;
+      background-color: azure;
+      text-align: center;
+    }
+    
+    .div3 {
+      float: left;
+      background-color: azure;
+      text-align: center;
+    }
+    
+
+    .div3 {
+      float: left;
+      background-color: azure;
+      text-align: center;
+    }
+  }
